@@ -1,3 +1,4 @@
+/* eslint-disable no-shadow */
 const { response } = require('@hapi/hapi/lib/validation');
 const { nanoid } = require('nanoid');
 const notes = require('./notes');
